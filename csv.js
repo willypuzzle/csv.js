@@ -357,6 +357,8 @@ var CSV = {};
   }
 })(CSV);
 
+window.CSV = CSV;
+
 // backwards compatability for use in Recline
 var recline = recline || {};
 recline.Backend = recline.Backend || {};

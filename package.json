@@ -1,5 +1,5 @@
 {
-  "name": "csv.js",
+  "name": "dom-csv.js",
   "version": "1.0.0",
   "description": "Simple javascript CSV library focused on the browser with **zero dependencies**.",
   "main": "csv.js",
